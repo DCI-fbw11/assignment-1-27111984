@@ -1,0 +1,10 @@
+#images{
+    display: inline-block;
+    margin:50px auto; 
+    background-color: aqua
+}
+#images a{
+    margin:50px 50px;
+    display:inline-block;
+    color:black;
+ }
